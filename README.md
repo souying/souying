@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://metrics.lecoq.io/souying?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center">
@@ -10,7 +10,8 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souying&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
   <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/souying/APP">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=APP&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=APP&theme=dark&bg_color=121212&hide_border=true" /></a><a href="https://github.com/souying/serverMmon">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=serverMmon&theme=dark&bg_color=121212&hide_border=true" /><br><br>
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
