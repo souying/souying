@@ -3,6 +3,11 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center">
   
+  # 访问量 :cn:
+
+  ![](http://profile-counter.glitch.me/souying/count.svg)
+
+  ![](http://moecount.glitch.me/get/@souying?theme=rule34)
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <!-- GitHub 数据统计 -->
