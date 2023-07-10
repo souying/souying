@@ -18,7 +18,9 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=APP&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/souying/serverMmon">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=serverMmon&theme=dark&bg_color=121212&hide_border=true" />
-<a href="https://github.com/souying/Midjourney-node-api">
+<a href="https://github.com/souying/APP">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=APP&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/souying/vercel-api-proxy">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=souying&repo=Midjourney-node-api&theme=dark&bg_color=121212&hide_border=true" /><br><br><br><br>
 <!--  skill badge 技能徽章 -->
 💪 正在学习
